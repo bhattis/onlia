@@ -27,5 +27,5 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency("pry")
 
   spec.add_dependency("rest-client", ">= 2.1.0")
-  spec.add_dependency("jwt", "~> 2.2.2")
+  spec.add_dependency("jwt", "~> 2.2")
 end
